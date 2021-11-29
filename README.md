@@ -12,7 +12,7 @@ TBW
 
 ## 在开始写博客之前，先看看这个链接：
  
- https://wechaty.js.org/2021/04/22/how-to-publish-blog-on-wechaty/
+ [入门：小白如何在wechaty社区发布自己的第一篇博客](https://wechaty.js.org/2021/04/22/how-to-publish-blog-on-wechaty/)
 
 ## Contact
 
